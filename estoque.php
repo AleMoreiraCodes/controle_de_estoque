@@ -18,8 +18,8 @@
             <td style="height: 60px; font-size: 50px;">djfhv</td>
         </tr>
         <tr>
-            <td>hdfk</td>
-            <td>gses</td>
+            <td>Milena</td>
+            <td>Xande</td>
             <td>djfhv</td>
         </tr>
         <tr>
